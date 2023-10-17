@@ -4,9 +4,7 @@ Natural Language Processing Basic To Advance. Bellow image shows generalize pipe
 # NLP From Scratch:
 This directory encompasses fundamental principles related to Natural Language Processing (NLP), The key concepts covered in this directory include:
 
-1. **Stopwords**: Common words (e.g., "the," "and") often removed during text processing to improve efficiency. the list of stop words in english is shown in bellow.
-
-![stop words](https://www.researchgate.net/publication/228670007/figure/tbl2/AS:671525258657813@1537115506709/Sample-of-stop-words.png)
+1. **Stopwords**: Common words (e.g., "the," "and") often removed during text processing to improve efficiency. the list of stop words in english is shown in bellow [stop words](https://www.researchgate.net/publication/228670007/figure/tbl2/AS:671525258657813@1537115506709/Sample-of-stop-words.png)
 
 3. **Part-of-Speech (POS) Tagging**: Assigning grammatical categories (e.g., nouns, verbs, adjectives) to words in a text.
 
