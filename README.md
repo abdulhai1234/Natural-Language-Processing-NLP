@@ -26,4 +26,5 @@ This directory encompasses fundamental principles related to Natural Language Pr
 
 These foundational NLP concepts provide a solid groundwork for understanding and working with natural language data, enabling the development of various language processing applications, from chatbots to language translation systems.
 # Transformers:
-Transformers based NLP concepts
+This repository is your go-to guide for understanding transformers. It breaks down how transformers work and shows you how they can be used for things like summarizing text, classifying it, generating text, translating languages, and much more.
+
